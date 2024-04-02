@@ -1,5 +1,5 @@
 ### IntelliJ IDEA ###
-.idea
+.idea/
 lap-padroes-projeto-java.iml
 out/
 !**/src/main/**/out/
